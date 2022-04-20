@@ -64,7 +64,7 @@ function TeacherInfo() {
                     className="d-none d-sm-inline-block btn btn-sm btn-success shadow-sm"
                     to={"/teacher-form"}
                 >
-                    <i className="fa-sm text-white-50"></i> Create User
+                    <i className="fa-sm text-white-50"></i> Create Teacher
                 </Link>
             </div>
 
